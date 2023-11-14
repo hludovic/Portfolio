@@ -4,6 +4,7 @@ title = "Ludovic Henry"
 theme = "alexa-portfolio"
 googleAnalytics = "UA-167869327-1"
 enableRobotsTXT = true
+canonifyURLs = true
 
 [params]
 	# favicon = "/images/fav.png"
