@@ -7,7 +7,7 @@ enableRobotsTXT = true
 canonifyURLs = true
 
 [params]
-	favicon = "favicon-32x32.png"
+	favicon = "/images/favicon-32x32.png"
 	home_title = "Bonjour, Je suis Ludovic"
 	home_subtitle = "Développeur iOS"
 	home_description = "and also has little experience in Mobile development and Design."
