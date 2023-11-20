@@ -8,9 +8,9 @@ canonifyURLs = true
 
 [params]
 	favicon = "/images/favicon-32x32.png"
-	home_title = "Bonjour, Je suis Ludovic"
-	home_subtitle = "Développeur iOS"
-	home_description = "and also has little experience in Mobile development and Design."
+	home_title = "Bonjour, Je suis Ludovic."
+	home_subtitle = "Freelance - Développeur Mobile - iOS Natif"
+	home_description = "J'utilise mes superpouvoirs pour construire des produits délicieux."
 	github = "https://github.com/hludovic"
 	linkedin = "https://www.linkedin.com/in/hludovic/"
 	dribbble = ""
