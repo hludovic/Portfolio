@@ -1,4 +1,4 @@
 ---
-title: "Contact Me"
-subtitle: "Get in touch"
+title: "Contactez-moi"
+subtitle: "Travaillons Ensemble !"
 ---
