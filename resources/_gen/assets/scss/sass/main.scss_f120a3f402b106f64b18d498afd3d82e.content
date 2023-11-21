@@ -847,6 +847,11 @@ a {
   padding: 0 .75rem;
   margin: 0 auto; }
 
+.work__main__subtitle {
+  max-width: 700px;
+  padding: 2rem;
+  margin: 0 auto; }
+
 .work__container {
   max-width: 640px;
   margin-bottom: var(--mb-1); }
