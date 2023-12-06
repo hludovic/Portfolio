@@ -5,21 +5,14 @@
     <div class="c-cases px-3">
     {{ range sort (where .Site.Pages "Type" "work") ".Params.index" "asc"  }}
     	{{ if  ne .Title "Réalisations" }} 
-		    <a
-		    	href="/work/{{ .Params.slug }}"
-		      	class="c-case enter-fade-up enter-delay-1 background-gradient"
-		      	data-color="{{ .Params.color }}"
-		    >
-		      <div
-		        class="c-case__image"
-		        style="background-image: url('{{ .Params.thumb_image }}')"
-		      >
-			  </div>
-		      <div class="c-case__info" style="background: {{ .Params.color }}">
-		        <div class="c-case__title">{{ .Title }}</div>
-		        <div class="c-case__subtitle">{{ .Params.job_type }}</div>
-		      </div>
-		    </a>
+		    <a href="/work/{{ .Params.slug }}" class="c-case enter-fade-up enter-delay-1 background-gradient" data-color="{{ .Params.color }}">
+		    	<div class="c-case__image" style="background-image: url('{{ .Params.thumb_image }}')">
+		    	</div>
+		    	<div class="c-case__info" style="background: {{ .Params.color }}">
+		    		<div class="c-case__title">{{ .Title }}</div>
+		    		<div class="c-case__subtitle">{{ .Params.job_type }}</div>
+		    	</div>
+		    </a>			
     	{{end}}
     {{ end }}
 

@@ -8,7 +8,7 @@ subtitle: ""
     Je m'appelle <b class='main-color'>Ludovic Henry</b>, et je suis basé en <b class='main-color'>Guadeloupe</b>.
   </span>
   <p>
-    Développeur freelance spécialisé dans la programmation d'applications destinées aux appareils Apple, je suis titulaire d'un diplôme RNCP Niveau 6 (bac +3/4) de Développeur d'application délivré par <a class='main-color' href="https://openclassrooms.com/fr/paths/528-developpeur-dapplication-ios" rel="noopener noreferrer" target="_blank">Openclassrooms</a>.
+    Développeur freelance spécialisé dans la programmation d'applications destinées aux appareils Apple, je suis titulaire d'un diplôme RNCP Niveau 6 (bac +3/4) de Développeur d'application délivré par <a class='main-color' href="https://openclassrooms.com/fr/paths/528-developpeur-dapplication-ios" rel="noopener noreferrer" target="_blank">OpenClassrooms</a>.
   </p>
   <p>
     J'ai acquis une bonne maitrise de <b class='main-color'>Swift</b>, des framework <b class='main-color'>SwiftUI</b> et <b class='main-color'>UIKit</b> ainsi que des Design Patterns <b class='main-color'>MVVM</b> et <b class='main-color'>MVC</b>. Au sein d'une équipe <b class='main-color'>agile</b> je suis capable de suivre développement logiciel pilotée par les tests (<b class='main-color'>TDD</b>) en réalisant des  <b class='main-color'>tests unitaires</b> et des <b class='main-color'>tests UI</b>. Je suis familiarisé à la <b class='main-color'>programmation réactive</b> avec <b class='main-color'>Combine</b>.
