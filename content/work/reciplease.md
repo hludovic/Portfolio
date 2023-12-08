@@ -7,7 +7,7 @@ stack: "iOS • Swift • edamam API • Core Data"
 website_link: ""
 github_link: "https://gitlab.com/hludovic/reciplease"
 color: "#D8782E"
-index: 4
+index: 5
 
 thumb_image: "../images/reciplease_pic2.png"
 cover_image: "/images/reciplease_pic1.png"

@@ -7,7 +7,7 @@ stack: "iOS • Swift • CloudKit • Core Data"
 website_link: ""
 github_link: "https://github.com/hludovic/Nice_Spot_old"
 color: "#fab302"
-index: 3
+index: 4
 
 thumb_image: "../images/nice-spot_pic2.png"
 cover_image: "/images/nice-spot_pic1.png"

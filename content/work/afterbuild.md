@@ -1,13 +1,13 @@
 ---
 draft: false
-title: "Eportal Sisda Provinsi Sumut"
-slug: sisda
+title: "After Build"
+slug: afterbuild
 job_type: "Designed and Developed"
 stack: "jQuery • Boostrap • PHP • Codeingiter • Mysql"
-website_link: "http://sisda.sumutprov.go.id/"
+website_link: ""
 github_link: ""
 color: "#1c6141"
-index: 99
+index: 1
 
 thumb_image: "https://res.cloudinary.com/bonzdev/image/upload/w_1000,ar_16:9,c_fill/v1622111359/mockup_crop/sisda_crop_nt32jn.png"
 cover_image: "https://res.cloudinary.com/bonzdev/image/upload/c_thumb,w_500,g_face/v1622111359/mockup_crop/sisda_crop_nt32jn.png"

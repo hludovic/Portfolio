@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Starbucks Secret Menu"
-slug: starbucksecret
+title: "Eartquakes"
+slug: eartquakes
 job_type: "Designed and Developed"
 stack: "Flutter • Firebase"
 website_link: "https://play.google.com/store/apps/details?id=com.bonzdev.starbucksecret"
