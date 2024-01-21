@@ -3,14 +3,14 @@ draft: false
 title: "Pet Finder"
 slug: petfinder
 job_type: "Designed and Developed"
-stack: "jQuery • Boostrap • PHP • Mysql"
+stack: "Swift"
 website_link: ""
 github_link: ""
 color: "#38aa11"
 index: 3
 
-thumb_image: "https://res.cloudinary.com/bonzdev/image/upload/w_1000,ar_16:9,c_fill,g_auto/v1621922693/mockup_crop/iiw_crop_z7h93m.png"
-cover_image: "https://res.cloudinary.com/bonzdev/image/upload/c_thumb,w_500,g_face/v1622111359/mockup_crop/iiw_crop_z7h93m.png"
+thumb_image: ""
+cover_image: ""
 ---
 
 L’application “PetFinder” a pour objectif d’aider ses utilisateurs à retrouver leurs animaux de compagnie égarés.
