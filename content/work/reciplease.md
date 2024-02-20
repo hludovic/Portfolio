@@ -10,7 +10,7 @@ color: "#D8782E"
 index: 5
 
 thumb_image: "../images/reciplease_pic2.png"
-cover_image: "/images/reciplease_pic1.png"
+cover_image: "/images/reciplease_pic1.jpg"
 ---
 
 Reciplease permet de rechercher des recettes à partir d'ingrédients. On peut également conserver ses recettes préférées en favoris.
