@@ -1,9 +1,7 @@
 baseURL = "https://hludovic.github.io/Portfolio/"
-languageCode = "en-us"
+languageCode = "fr"
 title = "Ludovic Henry"
 theme = "alexa-portfolio"
-googleAnalytics = "UA-167869327-1"
-enableRobotsTXT = true
 canonifyURLs = true
 
 [params]
