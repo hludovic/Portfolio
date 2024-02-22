@@ -2,12 +2,12 @@
 draft: false
 title: "Guild Wars Activities"
 slug: gwactivities
-job_type: "Designed and Developed"
+job_type: "Conception et développement"
 stack: "MacOS • Swift • SwiftSoup"
 website_link: ""
 github_link: "https://github.com/hludovic/GWActivities"
 color: "#A78F6D"
-index: 2
+index: 3
 
 thumb_image: "../images/gwactivity_pic2.png"
 cover_image: "/images/gwactivity_pic1.png"

@@ -2,12 +2,12 @@
 draft: false
 title: "Nice Spot"
 slug: nice-spot
-job_type: "Designed and Developed"
+job_type: "Conception et développement"
 stack: "iOS • Swift • CloudKit • Core Data"
 website_link: ""
 github_link: "https://github.com/hludovic/Nice_Spot_old"
-color: "#fab302"
-index: 4
+color: "#5F57EF"
+index: 5
 
 thumb_image: "../images/nice-spot_pic2.png"
 cover_image: "/images/nice-spot_pic1.png"

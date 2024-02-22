@@ -2,12 +2,12 @@
 draft: false
 title: "Eartquakes"
 slug: eartquakes
-job_type: "Designed and Developed"
+job_type: "Conception et développement"
 stack: "Swift"
 website_link: ""
 github_link: ""
-color: "#1c6141"
-index: 99
+color: "#DB251A"
+index: 1
 
 thumb_image: ""
 cover_image: ""

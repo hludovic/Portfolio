@@ -1,5 +1,5 @@
 baseURL = "https://hludovic.github.io/Portfolio/"
-languageCode = "fr"
+languageCode = "fr-FR"
 title = "Ludovic Henry"
 theme = "alexa-portfolio"
 canonifyURLs = true

@@ -2,12 +2,12 @@
 draft: false
 title: "Pet Finder"
 slug: petfinder
-job_type: "Designed and Developed"
+job_type: "Conception et développement"
 stack: "Swift"
 website_link: ""
 github_link: ""
 color: "#38aa11"
-index: 3
+index: 4
 
 thumb_image: ""
 cover_image: ""
