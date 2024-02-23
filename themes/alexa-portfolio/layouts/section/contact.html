@@ -36,23 +36,25 @@
                     <span class="contact__subtitle">{{ .Site.Params.location }}</span>
                 </div>
             </div>
+        </div>
+        <form name="contact" action="mailto:someone@example.com?Subject=Travaillons Ensemble !" method="post" enctype="text/plain" class="contact__form grid" data-netlify="true">
+            <input type="hidden" name="Origine" value="Portfolio" />
+            <div class="contact__inputs grid">
+                <div class="contact__content">
+                    <label for="" class="contact__label">Nom</label>
+                    <input type="text" placeholder="Votre nom..." name="Nom" class="contact__input" required />
+                </div>
+                <div class="contact__content">
+                    <label for="" class="contact__label">Message</label>
+                    <textarea cols="0" name="Message" placeholder="Votre message..." rows="7" class="contact__input" required minlength="20"></textarea>
+                </div>
+                <div>
+                    <button type="submit" class="button  button--flex">
+                        Envoyer <uil-message class="fab fa-telegram-plane button__icon" />
+                    </button>
+                </div>
+            </div>
+        </form>
     </div>
-    <form name="contact" action="mailto:someone@example.com?Subject=Travaillons Ensemble !" method="post" enctype="text/plain" class="contact__form grid" data-netlify="true">
-      <input type="hidden" name="form-name" value="contact" />
-      <div class="contact__inputs grid">
-        <div class="contact__content">
-          <label for="" class="contact__label">Nom</label>
-          <input type="text" placeholder="Votre nom..." name="name" class="contact__input" required />
-        </div>
-        <div class="contact__content">
-          <label for="" class="contact__label">Message</label>
-          <textarea cols="0" name="message" placeholder="Votre message..." rows="7" class="contact__input" required minlength="20"></textarea>
-        </div>
-        <div>
-          <button type="submit" class="button button--flex">Envoyer <uil-message class=" fab fa-telegram-plane button__icon" /></button>
-        </div>
-      </div>
-    </form>
-  </div>
 </section>
 {{ end }}
