@@ -1,41 +1,41 @@
 {{ define "main" }}
 <section class="contact section mt-5" id="contact">
-  <h2 class="section__title">{{ .Title }}</h2>
-  <span class="section__subtitle">{{ .Params.subtitle }}</span>
-  <div class="contact__container container grid">
-    <div>
-      <div class="contact__information">
-        <i class="fab fa-github contact__icon"></i>
+    <h2 class="section__title">{{ .Title }}</h2>
+    <span class="section__subtitle">{{ .Params.subtitle }}</span>
+    <div class="contact__container container grid">
         <div>
-          <a href="{{ .Site.Params.linkedin }}" target="_blank" rel="noopener">
-            <h3 class="contact__title">Github</h3>
-            <span class="contact__subtitle">{{ .Site.Params.github }}</span>
-          </a>
-        </div>
-      </div>
-      <div class="contact__information">
-        <i class="fab fa-linkedin contact__icon"></i>
-        <div>
-          <a href="{{ .Site.Params.linkedin }}" target="_blank" rel="noopener">
-            <h3 class="contact__title">Linkedin</h3>
-            <span class="contact__subtitle">{{ .Site.Params.linkedin }}</span>
-          </a>
-        </div>
-      </div>
-      <div class="contact__information">
-        <i class="fas fa-envelope contact__icon"></i>
-        <div>
-          <h3 class="contact__title">Email</h3>
-          <span class="contact__subtitle">{{ .Site.Params.email }}</span>
-        </div>
-      </div>
-      <div class="contact__information">
-        <i class="fas fa-map contact__icon"></i>
-        <div>
-          <h3 class="contact__title">Localisation</h3>
-          <span class="contact__subtitle">{{ .Site.Params.location }}</span>
-        </div>
-      </div>
+            <div class="contact__information">
+                <i class="fab fa-github contact__icon"></i>
+                <div>
+                    <a href="{{ .Site.Params.linkedin }}" target="_blank" rel="noopener">
+                        <h3 class="contact__title">Github</h3>
+                        <span class="contact__subtitle">{{ .Site.Params.github }}</span>
+                    </a>
+                </div>
+            </div>
+            <div class="contact__information">
+                <i class="fab fa-linkedin contact__icon"></i>
+                <div>
+                    <a href="{{ .Site.Params.linkedin }}" target="_blank" rel="noopener">
+                        <h3 class="contact__title">Linkedin</h3>
+                        <span class="contact__subtitle">{{ .Site.Params.linkedin }}</span>
+                    </a>
+                </div>
+            </div>
+            <div class="contact__information">
+                <i class="fas fa-envelope contact__icon"></i>
+                <div>
+                    <h3 class="contact__title">Email</h3>
+                    <span class="contact__subtitle">{{ .Site.Params.email }}</span>
+                </div>
+            </div>
+            <div class="contact__information">
+                <i class="fas fa-map contact__icon"></i>
+                <div>
+                    <h3 class="contact__title">Localisation</h3>
+                    <span class="contact__subtitle">{{ .Site.Params.location }}</span>
+                </div>
+            </div>
     </div>
     <form name="contact" action="mailto:someone@example.com?Subject=Travaillons Ensemble !" method="post" enctype="text/plain" class="contact__form grid" data-netlify="true">
       <input type="hidden" name="form-name" value="contact" />
