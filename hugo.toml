@@ -1,8 +1,6 @@
-baseURL = "https://hludovic.github.io/Portfolio/"
+baseURL = "https://www.hludovic.fr/"
 languageCode = "fr-FR"
 title = "Ludovic Henry"
-theme = "alexa-portfolio"
-canonifyURLs = true
 
 [params]
 	favicon = "/images/favicon-32x32.png"
@@ -11,8 +9,6 @@ canonifyURLs = true
 	home_description = "J'utilise mes superpouvoirs pour construire des produits délicieux."
 	github = "https://github.com/hludovic"
 	linkedin = "https://www.linkedin.com/in/hludovic/"
-	dribbble = ""
-	phone = "0011223344"
 	email = "temp@gmail.com"
 	location = "Guadeloupe, France"
 
