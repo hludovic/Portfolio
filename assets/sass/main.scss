@@ -473,9 +473,20 @@ a {
     margin: 0 auto;
 }
 
+// .social__container {
+//     max-width: 640px;
+//     margin-bottom: var(--mb-1);
+// }
+
 .work__container {
     max-width: 640px;
+    // margin-top: var(--mb-3);
     margin-bottom: var(--mb-1);
+    
+    p::first-letter {
+      font-size: 1.5rem;
+      font-weight: bold;
+    }
 
     p {
         margin-bottom: var(--mb-1);
@@ -733,6 +744,10 @@ a {
     }
 
     .work__container {
+        max-width: 768px;
+    }
+    
+    .social__container {
         max-width: 768px;
     }
 
