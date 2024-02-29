@@ -20,11 +20,11 @@
             </li>
             {{ end }} 
         </ul>
-        <div class="container work__container">
+        <div class="container work__container mt-4">
             {{ .Content }}
             <ul class="c-tags justify-start mt-1">
                 {{ if .Params.github_link }}
-                <li class="c-tags__item ">
+                <li class="c-tags__item">
                     <a class="c-tags__label button py-1" href="{{ .Params.github_link }}" target="_blank">
                         <i class="fab fa-github"></i> Github
                     </a>
