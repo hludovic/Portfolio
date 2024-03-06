@@ -8,7 +8,7 @@
 @import 'tags';
 
 :root {
-    --header-height: 3rem;
+    --header-height: 3rem;    
 
     /*========== Colors ==========*/
     /* Change favorite color */
@@ -17,6 +17,7 @@
 
     /* HSL color mode */
     --first-color: hsl(var(--hue-color), 69%, 61%);
+    --first-color-alpha: hsla(var(--hue-color), 69%, 61%, 0.1);
     --first-color-second: hsl(var(--hue-color), 69%, 61%);
     --first-color-alt: hsl(var(--hue-color), 57%, 53%);
     --first-color-lighter: hsl(var(--hue-color), 92%, 85%);
@@ -115,6 +116,18 @@ body {
     font-size: var(--normal-font-size);
     background-color: var(--body-color);
     color: var(--text-color);
+
+    // Push the footer in the bottom of the screen
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    margin-top: auto;
+    text-align: center;
+    font-size: 12px;
+    background-color: var(--first-color-alpha);
 }
 
 h1,
@@ -188,7 +201,6 @@ a {
 .header {
     width: 100%;
     position: fixed;
-    bottom: 0;
     left: 0;
     z-index: var(--z-fixed);
     background-color: var(--body-color);
