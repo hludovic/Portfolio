@@ -19,6 +19,6 @@ subtitle: "Qui suis-je ?"
   </p>
   <p>
     Pour plus de détails vous pouvez suivre mon parcours sur ma page
-    <a class='main-color' href="https://www.linkedin.com/in/hludovic/" rel="noopener noreferrer" target="_blank">Linkedin</a>, ou consulter mes projets sur mon <a class='main-color' href="https://github.com/hludovic/" rel="noopener noreferrer" target="_blank">Github</a>. 
+    <a class='main-color' href="https://www.linkedin.com/in/hludovic/" rel="noopener noreferrer" target="_blank">Linkedin</a> (Profil privé), ou consulter mes projets sur mon <a class='main-color' href="https://github.com/hludovic/" rel="noopener noreferrer" target="_blank">Github</a>. 
   </p>
 </div>
